@@ -1,5 +1,5 @@
-﻿#Total No. of N-Gram Types: 271
-#Total No. of N-Gram Tokens: 289
+#Total No. of N-Gram Types: 13
+#Total No. of N-Gram Tokens: 31
 1	3	1	к фильму
 2	3	1	как я
 3	3	1	очень красивые
